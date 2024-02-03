@@ -3,7 +3,8 @@
  */
 const nextConfig = {
   output: "export",
+  //new option config
 };
 
-// module.exports = nextConfig;
-export default nextConfig;
+module.exports = nextConfig;
+//export default nextConfig;

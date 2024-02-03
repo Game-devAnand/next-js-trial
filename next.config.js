@@ -3,6 +3,11 @@
  */
 const nextConfig = {
   output: "export",
+  distDir: "dist",
+  images: {
+    unoptimized: true,
+  },
+
   //new option config
 };
 
